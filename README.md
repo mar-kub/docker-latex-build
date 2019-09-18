@@ -1,5 +1,5 @@
 # docker-latex-build
-[![Build Status][build_status]](https://travis-ci.org/mar-kub/docker-latex-build)
+[![Build Status][build_status]](https://travis-ci.com/mar-kub/docker-latex-build)
 
 Docker image for latex
 
@@ -8,4 +8,4 @@ Docker image for latex
 - pandoc
 - cmake
 
-[build_status]:https://travis-ci.org/mar-kub/docker-latex-build.svg?branch=master
+[build_status]:https://travis-ci.com/mar-kub/docker-latex-build.svg?branch=master
